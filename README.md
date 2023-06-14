@@ -12,25 +12,29 @@ Committed to exceeding expectations and delivering top-notch services.
 I am dedicated to finding the best solutions for my clients, and my broad range of technical skills and expertise ensures that I can help bring your projects to life. 
 Let's work together to drive success and solve your most pressing challenges using the power of Python development, machine learning, and data engineering.
 
-✅Technical Skills
-✔ Programming languages: Python, Golang, JavaScript
-✔ Web technologies: Django, Flask, gin-gonic, React, Next.js, Typescript, Tailwind CSS
-✔ Haystack, RabbitMQ/Kafka, ElasticSearch
-✔ RDB: PostgreSQL, MariaDB, SQLite
-✔ NoSQL: MongoDB, InfluxDB, Firebase, Cassandra, Redis
-✔ API: REST, JSON APIS, SOAP, gRPC, GraphQL - Apollo
-✔ Deep Learning libraries: Tensorflow, Scikit-Learn, PyTorch
-✔ Data analysis: Pandas/Polars, Numpy, Scipy, Ballerina
-✔ Databricks, Apache Spark, AVRO
-✔ Data Visualization: Bokeh, D3.js, Matplotlib
-✔ RabbitMQ/Kafka, ElasticSearch
-✔ Task queues: Celery, Redis Queue(RQ)
-✔ Docker, Kubernetes
-✔ Web Scraping ( BeautifulSoup, Selenium, Scrapy, Puppeteer, Cheerio)
-✔ Automation ( Selenium webdriver, Zapier )
-✔ Data-Driven Python web apps (Dash / Plotly / Streamlit)
-✔ AWS S3, Lambda, EC2, Cognito, CloudWatch, DynamoDB, API Gateway, RDS, Elastic IP, Router
-✔ Web Scraping & Crawling: Automation for page movement & button action, bypassing captcha & scraping defender, Implementation for proxy rotation
-✔ AI: Langchain, OpenAI, GPT & Hugging face, Pinecone & Weaviate & Chroma, Supabase & Firebase, Zapier NLA, 
-✔ Data Engineering & ML: Numpy, Polars, pandas, tensorflow, Scipy, Scikit-learn, Pytorch
-✔ Bubble.io
+<details>
+  <summary>✅Technical Skills</summary>
+  <ul>
+    <li>✔ Programming languages: Python, Golang, JavaScript</li>
+    <li>✔ Web technologies: Django, Flask, gin-gonic, React, Next.js, Typescript, Tailwind CSS</li>
+    <li>✔ Haystack, RabbitMQ/Kafka, ElasticSearch</li>
+    <li>✔ RDB: PostgreSQL, MariaDB, SQLite</li>
+    <li>✔ NoSQL: MongoDB, InfluxDB, Firebase, Cassandra, Redis</li>
+    <li>✔ API: REST, JSON APIS, SOAP, gRPC, GraphQL - Apollo</li>
+    <li>✔ Deep Learning libraries: Tensorflow, Scikit-Learn, PyTorch</li>
+    <li>✔ Data analysis: Pandas/Polars, Numpy, Scipy, Ballerina</li>
+    <li>✔ Databricks, Apache Spark, AVRO</li>
+    <li>✔ Data Visualization: Bokeh, D3.js, Matplotlib</li>
+    <li>✔ RabbitMQ/Kafka, ElasticSearch</li>
+    <li>✔ Task queues: Celery, Redis Queue(RQ)</li>
+    <li>✔ Docker, Kubernetes</li>
+    <li>✔ Web Scraping ( BeautifulSoup, Selenium, Scrapy, Puppeteer, Cheerio)</li>
+    <li>✔ Automation ( Selenium webdriver, Zapier )</li>
+    <li>✔ Data-Driven Python web apps (Dash / Plotly / Streamlit)</li>
+    <li>✔ AWS S3, Lambda, EC2, Cognito, CloudWatch, DynamoDB, API Gateway, RDS, Elastic IP, Router</li>
+    <li>✔ Web Scraping & Crawling: Automation for page movement & button action, bypassing captcha & scraping defender, Implementation for proxy rotation</li>
+    <li>✔ AI: Langchain, OpenAI, GPT & Hugging face, Pinecone & Weaviate & Chroma, Supabase & Firebase, Zapier NLA</li>
+    <li>✔ Data Engineering & ML: Numpy, Polars, pandas, tensorflow, Scipy, Scikit-learn, Pytorch</li>
+    <li>✔ Bubble.io</li>
+  </ul>
+</details>
