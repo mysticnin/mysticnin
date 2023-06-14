@@ -31,6 +31,7 @@ Let's work together to drive success and solve your most pressing challenges usi
 ✔ Data-Driven Python web apps (Dash / Plotly / Streamlit)
 ✔ AWS S3, Lambda, EC2, Cognito, CloudWatch, DynamoDB, API Gateway, RDS, Elastic IP, Router
 ✔ Web Scraping & Crawling: Automation for page movement & button action, bypassing captcha & scraping defender, Implementation for proxy rotation
-✔ AI, Data engineering & Machine learning: Langchain, OpenAI, GPT & Hugging face, Numpy, Polars, Pinecone & Weaviate & Chroma, Supabase & Firebase, Zapier NLA, Numpy, tensorflow, Scipy, Scikit-learn, Pytorch
+✔ AI: Langchain, OpenAI, GPT & Hugging face, Pinecone & Weaviate & Chroma, Supabase & Firebase, Zapier NLA, 
+✔ Data Engineering & ML: Numpy, Polars, pandas, tensorflow, Scipy, Scikit-learn, Pytorch
 ✔ Bubble.io
 
