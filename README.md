@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with other developers and clients who share a passion for new and innovative technologies in Web development, machine learning, and data engineering.
 - 📫 You can reach me on GitHub for any inquiries or potential collaborations.
 
-  Over 7 years of experience in web development, machine learning, data engineering, and software architecture. 
+Over 7 years of experience in web development, machine learning, data engineering, and software architecture. 
 Specialized in developing and implementing generative AI, customer service agent, chatbot, and backend services using: Python | Javascript, Langchain, ChatGPT, Hugging Face, Rasa, vector DBs like Pinecone, Chroma, Weaviate, Qdrant, and Redis". 
 Constantly staying up-to-date with the latest industry developments and helping clients choose the most valuable and cost-effective techniques to tackle their challenges. 
 Committed to exceeding expectations and delivering top-notch services.
@@ -34,4 +34,3 @@ Let's work together to drive success and solve your most pressing challenges usi
 ✔ AI: Langchain, OpenAI, GPT & Hugging face, Pinecone & Weaviate & Chroma, Supabase & Firebase, Zapier NLA, 
 ✔ Data Engineering & ML: Numpy, Polars, pandas, tensorflow, Scipy, Scikit-learn, Pytorch
 ✔ Bubble.io
-
