@@ -38,4 +38,3 @@ Let's work together to drive success and solve your most pressing challenges usi
     <li>✔ Bubble.io</li>
   </ul>
 </details>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysticnin&show_icons=true&hide=issues" alt="MysticNinja" /></p>
