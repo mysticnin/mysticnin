@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with other developers and clients who share a passion for new and innovative technologies in Web development, machine learning, and data engineering.
 - 📫 You can reach me on GitHub for any inquiries or potential collaborations.
 
+<a href="https://app.daily.dev/mysticnin"><img align="right" src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
+
 Over 7 years of experience in web development, machine learning, data engineering, and software architecture. 
 Specialized in developing and implementing generative AI, customer service agent, chatbot, and backend services using: Python | Javascript, Langchain, ChatGPT, Hugging Face, Rasa, vector DBs like Pinecone, Chroma, Weaviate, Qdrant, and Redis". 
 Constantly staying up-to-date with the latest industry developments and helping clients choose the most valuable and cost-effective techniques to tackle their challenges. 
@@ -12,8 +14,6 @@ Committed to exceeding expectations and delivering top-notch services.
 I am dedicated to finding the best solutions for my clients, and my broad range of technical skills and expertise ensures that I can help bring your projects to life. 
 Let's work together to drive success and solve your most pressing challenges using the power of Python development, machine learning, and data engineering.
 
-
-<a href="https://app.daily.dev/mysticnin"><img src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
 <details>
   <summary>✅Technical Skills</summary>
   <ul>
