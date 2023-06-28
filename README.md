@@ -11,7 +11,7 @@ Committed to exceeding expectations and delivering top-notch services.
 
 I am dedicated to finding the best solutions for my clients, and my broad range of technical skills and expertise ensures that I can help bring your projects to life. 
 Let's work together to drive success and solve your most pressing challenges using the power of Python development, machine learning, and data engineering.
-
+<a href="https://app.daily.dev/mysticnin"><img src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
 <details>
   <summary>✅Technical Skills</summary>
   <ul>
@@ -38,4 +38,3 @@ Let's work together to drive success and solve your most pressing challenges usi
     <li>✔ Bubble.io</li>
   </ul>
 </details>
-<a href="https://app.daily.dev/mysticnin"><img src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
