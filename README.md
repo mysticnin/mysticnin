@@ -7,9 +7,7 @@
 <a href="https://app.daily.dev/mysticnin"><img align="right" src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
 
 Over 7 years of experience in web development, machine learning, data engineering, and software architecture. 
-Specialized in developing and implementing generative AI, customer service agent, chatbot, and backend services using: Python | Javascript, Langchain, ChatGPT, Hugging Face, Rasa, vector DBs like Pinecone, Chroma, Weaviate, Qdrant, and Redis". 
-Constantly staying up-to-date with the latest industry developments and helping clients choose the most valuable and cost-effective techniques to tackle their challenges. 
-Committed to exceeding expectations and delivering top-notch services.
+Skilled and results-driven Senior Python Engineer with over 7 years of extensive experience in web development, data analysis, automation, web scraping and machine learning. Successfully led projects in diverse sectors ranging from fleet management, event booking systems, healthcare, and real estate. Proven track record in implementing solution-driven strategies and leveraging technology to drive growth, performance, and efficiency.
 
 I am dedicated to finding the best solutions for my clients, and my broad range of technical skills and expertise ensures that I can help bring your projects to life. 
 Let's work together to drive success and solve your most pressing challenges using the power of Python development, machine learning, and data engineering.
@@ -25,7 +23,7 @@ Let's work together to drive success and solve your most pressing challenges usi
     <li>✔ API: REST, JSON APIS, SOAP, gRPC, GraphQL - Apollo</li>
     <li>✔ Deep Learning libraries: Tensorflow, Scikit-Learn, PyTorch</li>
     <li>✔ Data analysis: Pandas/Polars, Numpy, Scipy, Ballerina</li>
-    <li>✔ Databricks, Apache Spark, AVRO</li>
+    <li>✔ Databricks, Apache Spark, AVRO, Airflow, Google Analytics, Amplitude</li>
     <li>✔ Data Visualization: Bokeh, D3.js, Matplotlib</li>
     <li>✔ RabbitMQ/Kafka, ElasticSearch</li>
     <li>✔ Task queues: Celery, Redis Queue(RQ)</li>
