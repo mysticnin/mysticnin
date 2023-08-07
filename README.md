@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mystic ninja, Senior Backend Engineer With a wealth of experience in Web development, AI solution & Software Architecture, machine learning, and data engineering.
+- 👋 Hi, I’m mystic ninja, Senior Python Engineer With a wealth of experience in Web development, AI solution & Software Architecture, machine learning, and data engineering.
 - 👀 I'm interested in establishing a long-term working relationship. 
 - 🌱 I’m constantly learning and keeping up-to-date with the latest industry developments in order to provide my clients with the most valuable and cost-effective techniques to tackle their challenges.
 - 💞️ I’m looking to collaborate with other developers and clients who share a passion for new and innovative technologies in Web development, machine learning, and data engineering.
