@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mystic ninja, Senior Python Engineer With a wealth of experience in Web development, AI solution & Software Architecture, machine learning, and data engineering.
+![image](https://github.com/mysticnin/mysticnin/assets/125064688/173846f2-cbe8-4852-b775-06a28040676b)- 👋 Hi, I’m mystic ninja, Senior Python Engineer With a wealth of experience in Web development, AI solution & Software Architecture, machine learning, and data engineering.
 - 👀 I'm interested in establishing a long-term working relationship. 
 - 🌱 I’m constantly learning and keeping up-to-date with the latest industry developments in order to provide my clients with the most valuable and cost-effective techniques to tackle their challenges.
 - 💞️ I’m looking to collaborate with other developers and clients who share a passion for new and innovative technologies in Web development, machine learning, and data engineering.
@@ -6,11 +6,8 @@
 
 <a href="https://app.daily.dev/mysticnin"><img align="right" src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
 
-Over 7 years of experience in web development, machine learning, data engineering, and software architecture. 
-Skilled and results-driven Senior Python Engineer with over 7 years of extensive experience in web development, data analysis, automation, web scraping and machine learning. Successfully led projects in diverse sectors ranging from fleet management, event booking systems, healthcare, and real estate. Proven track record in implementing solution-driven strategies and leveraging technology to drive growth, performance, and efficiency.
+A highly skilled and dynamic professional, I bring over 7 years of extensive experience in the realm of Software Development, AI, and Machine Learning. Specializing in creating predictive models and advanced analytics, I utilize my cutting-edge expertise to lead innovative initiatives, develop strategic solutions, and drive advancements in technology. I am proficient in data engineering, using these abilities to optimize and streamline processes through automation, resulting in overall increased efficiency. Passionate about developing sophisticated algorithms to solve complex issues, I aim to use my proficiency in AI to make significant contributions in a forward-thinking company. My unique blend of technical knowledge, creativity, and critical thinking allow me to deliver robust, user-friendly software solutions and drive operational success.
 
-I am dedicated to finding the best solutions for my clients, and my broad range of technical skills and expertise ensures that I can help bring your projects to life. 
-Let's work together to drive success and solve your most pressing challenges using the power of Python development, machine learning, and data engineering.
 
 <details>
   <summary>✅Technical Skills</summary>
