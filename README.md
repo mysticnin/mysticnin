@@ -1,119 +1,51 @@
-- 👋 Hi, I’m mystic ninja, Senior Python Engineer With a wealth of experience in Web development, AI solution & Software Architecture, machine learning, and data engineering.
-- 👀 I'm interested in establishing a long-term working relationship. 
-- 🌱 I’m constantly learning and keeping up-to-date with the latest industry developments in order to provide my clients with the most valuable and cost-effective techniques to tackle their challenges.
-- 💞️ I’m looking to collaborate with other developers and clients who share a passion for new and innovative technologies in Web development, machine learning, and data engineering.
-- 📫 You can reach me on GitHub for any inquiries or potential collaborations.
+<div align="center">
+  <h1>👋 Hi, I'm <name></h1>
 
-<a href="https://app.daily.dev/mysticnin"><img align="right" src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
+  <p>
+    <h3>AI Software Engineer | Solutions Architect</h3>
+  </p>
 
-A highly skilled and dynamic professional, I bring over 7 years of extensive experience in the realm of Software Development, AI, and Machine Learning. Specializing in creating predictive models and advanced analytics, I utilize my cutting-edge expertise to lead innovative initiatives, develop strategic solutions, and drive advancements in technology. I am proficient in data engineering, using these abilities to optimize and streamline processes through automation, resulting in overall increased efficiency. Passionate about developing sophisticated algorithms to solve complex issues, I aim to use my proficiency in AI to make significant contributions in a forward-thinking company. My unique blend of technical knowledge, creativity, and critical thinking allow me to deliver robust, user-friendly software solutions and drive operational success.
-
-
-<details>
-  <summary>✅Technical Skills</summary>
-  <ul>
-    <li>✔ Programming languages: Python, Golang, JavaScript</li>
-    <li>✔ Web technologies: Django, Flask, gin-gonic, React, Next.js, Typescript, Tailwind CSS</li>
-    <li>✔ Haystack, RabbitMQ/Kafka, ElasticSearch</li>
-    <li>✔ RDB: PostgreSQL, MariaDB, SQLite</li>
-    <li>✔ NoSQL: MongoDB, InfluxDB, Firebase, Cassandra, Redis</li>
-    <li>✔ API: REST, JSON APIS, SOAP, gRPC, GraphQL - Apollo</li>
-    <li>✔ Deep Learning libraries: Tensorflow, Scikit-Learn, PyTorch</li>
-    <li>✔ Data analysis: Pandas/Polars, Numpy, Scipy, Ballerina</li>
-    <li>✔ Databricks, Apache Spark, AVRO, Airflow, Google Analytics, Amplitude</li>
-    <li>✔ Data Visualization: Bokeh, D3.js, Matplotlib</li>
-    <li>✔ RabbitMQ/Kafka, ElasticSearch</li>
-    <li>✔ Task queues: Celery, Redis Queue(RQ)</li>
-    <li>✔ Docker, Kubernetes</li>
-    <li>✔ Web Scraping ( BeautifulSoup, Selenium, Scrapy, Puppeteer, Cheerio)</li>
-    <li>✔ Automation ( Selenium webdriver, Zapier )</li>
-    <li>✔ Data-Driven Python web apps (Dash / Plotly / Streamlit)</li>
-    <li>✔ AWS S3, Lambda, EC2, Cognito, CloudWatch, DynamoDB, API Gateway, RDS, Elastic IP, Router</li>
-    <li>✔ Web Scraping & Crawling: Automation for page movement & button action, bypassing captcha & scraping defender, Implementation for proxy rotation</li>
-    <li>✔ AI: Langchain, OpenAI, GPT & Hugging face, Pinecone & Weaviate & Chroma, Supabase & Firebase, Zapier NLA</li>
-    <li>✔ Data Engineering & ML: Numpy, Polars, pandas, tensorflow, Scipy, Scikit-learn, Pytorch</li>
-    <li>✔ Bubble.io</li>
-  </ul>
-</details>
-
-<table><tr><td valign="top" width="20%">
-
-
-
-### Programming Language Stack 
-<div align="center">  
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascipt" title="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" title="cpp" width="40" height="40"/>
+  <p>
+  🚀 With over 9 years of diverse industry experience, I specialize in backend development, web development, and comprehensive AI Solutions including NLP/ML, LLM/RAG, Vector Embedding, Hybrid Search (Sparse & Dense Embedding), TTS/STT, Img2Text, Text2Img, and Prompt Engineering. I have deployed my skills across healthcare, education, real estate, finance, and more, where I've designed and implemented sophisticated AI systems to drive organizational growth and efficiency.
+  </p>
 </div>
 
-</td><td valign="top" width="20%">
-
-
-
-### OS Stack  
-<div align="center">   
-  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" title="apple" width="25" height="40"/>
+<div align="center">
+  <h3>⭐ Key Accomplishments</h3>
 </div>
 
-</td><td valign="top" width="20%">
+- AI Adaptive eLearning System: Developed a platform utilizing adaptive learning algorithms for personalized student support.
+- AI Healthcare Navigator: Created a comprehensive medical assistant offering symptom checks, medication guides, and appointment scheduling.
+- AI-Powered Flight Booking System: Streamlined airline ticket booking with real-time alerts and tailored recommendations.
+- AI Marketing Intelligence Advisor: Engineered a research tool for marketing, integrating product databases and generating client-specific recommendations.
+- AI Car Investment Optimizer: Revolutionized the car flipping market with predictive profitability analyses and real-time dynamic pricing models.
+- AI Trip Planner: Designed a tool for comprehensive travel planning, from destination selection to flight booking and budget tracking.
+- AI Legal Analysis Tools: Automated document analysis and creation to improve efficiency in legal tasks.
+- AI Course Advisor for Restaurants: Developed systems for reservation management, menu optimization, and customer insights.
 
-
-
-### Project Management Stack 
-<div align="center">   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/>
+<div align="center">
+  <h3>🛠️ Technical Skills</h3>
 </div>
 
-</td><td valign="top" width="20%">
+- Programming: Python, C++, Javascript💻
+- RAG Solutions: Self Reflective RAG, Corrective RAG, RAG Fusion🎓
+- LLMs:GPT, Mistral, Olama | LLama 2, Mistral, PaLM, Claude, BERT, T5, Zephyr, Genemi | Bard🧠
+- AI Agent Frameworks: Langchain, llama-index, AutoGen, MemGPT, MetaGPT, AutoGPT, ChatDEV, ChatGPT, reworkd, Longmem, TaskWeaver, CrewAI, MindStudio | retool | Stack-ai | Creatify.ai | griptape.ai, vllm, fastchat, FlowiseAI, Clarifai🤖
+- NLP: Spacy, NLTK, prodigy💬
+- Automation: Zapier | Selenium🔄
+- OpenAI: GPT4, Whisper, Dall-E-3, , Embeddings | Finetuning | Virtual Assistant🆕
+- Vector DBs: Chroma | Pinecone | Qdrant | Faiss💾
+- Prompting Frameworks: TRACE, PACT, STAR, SAID, TAG, RASCEF, APPROOACH, CLEAR, RTF, RISEN, RODES, Chain of Density✍️
+- TTS| Video | multi-modal: Coqui/Suno-tts/PlayHT, Heygen, Yolo, GPT4v | LLaVA🎧
+- Customer Service Agents: Dialogflow CX, Azure Bot, Amazon Lex & Bedrock, Kore.ai☁️
+- Automation: n8n, zapier🔄
+- Front-End & Back-End: React | Next.js, Nest.js, Vue.js, Django | Flask, Gradio, MERN, PostgreSQL | MySQL🌐
+- Machine Learning: TensorFlow, Keras, Pytorch, Scikit-learn, Pyspark📊
+- Browser automation:Browserless.io |  Apify | Rapid api, Gradient | QLoRa, ffmpeg | Wowza | Netflix, Docker, Kubernetes, Ansible, Jenkins⚙️
+- Message Broker: RabbitMQ | Kafka, Search Engine: ElasticSearch | Haystack | Solr, SMTP | SFTP🔭
+- AWS: S3, Lambda, Glue, EC2, EKS, Cognito, CloudWatch, API Gateway, Elastic IP, Router, RDS, DynamoDB☁️
+- Industry Experience: Investment, Education, Insurance, Healthcare, Marketing, Financial Services💼
 
-
-
-### DevOps  
-<div align="center">  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
-
-
-
-</td><td valign="top" width="20%">
-
-
-  
-### Database  
-<div align="center">  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" title="mongo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" title="snowflake" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" title="oracle" width="40" height="40"/>
+<div>
+  <h3>💡 "Bridging the gap between AI and Business"</h2>
 </div>
-
-</td></tr></table>  
-
-## 🏆 Certification
-https://www.hackerrank.com/certificates/c7016c708c35
-https://www.hackerrank.com/certificates/1a15e9d7f4bb
-https://www.hackerrank.com/certificates/eb4f7fc89fb4
-https://www.hackerrank.com/certificates/iframe/eb4f7fc89fb4
-https://www.hackerrank.com/certificates/249516d3015e
-https://www.hackerrank.com/certificates/8cacfa3a6c96
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mysticnin&column=8)](https://github-profile-trophy.vercel.app/?username=mysticnin&column=8)
