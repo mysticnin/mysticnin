@@ -5,21 +5,6 @@
     <h3 align="center">AI Software Engineer & AI Solutions Architect & Lead</h3>
   </p>
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-
   <p>
   🚀 With over 9 years of diverse industry experience, I specialize in backend development, web development, and comprehensive AI Solutions including NLP/ML, LLM/RAG, Vector Embedding, Hybrid Search (Sparse & Dense Embedding), TTS/STT, Img2Text, Text2Img, and Prompt Engineering. I have deployed my skills across healthcare, education, real estate, finance, and more, where I've designed and implemented sophisticated AI systems to drive organizational growth and efficiency.
   </p>
@@ -82,4 +67,21 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mysticnin&show_icons=true&locale=en" alt="mysticnin" /></p>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticnin&" alt="mysticnin" /></p>
+</div>
+
+<div>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
