@@ -70,3 +70,7 @@
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysticnin&" alt="mysticnin" /></p>
 </div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/mysticnin/mysticnin/output/snake.svg" alt="Snake animation" />
+</div>
