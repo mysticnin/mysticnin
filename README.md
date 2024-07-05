@@ -2,8 +2,10 @@
   <h1>👋 Hi, I'm <name></h1>
 
   <p>
-    <h3>AI Software Engineer | Solutions Architect</h3>
+    <h3>AI Software Engineer | Solutions Architect & Lead</h3>
   </p>
+
+  <a href="https://app.daily.dev/mysticnin"><img align="right" src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
 
   <p>
   🚀 With over 9 years of diverse industry experience, I specialize in backend development, web development, and comprehensive AI Solutions including NLP/ML, LLM/RAG, Vector Embedding, Hybrid Search (Sparse & Dense Embedding), TTS/STT, Img2Text, Text2Img, and Prompt Engineering. I have deployed my skills across healthcare, education, real estate, finance, and more, where I've designed and implemented sophisticated AI systems to drive organizational growth and efficiency.
@@ -30,7 +32,7 @@
 - Programming: Python, C++, Javascript💻
 - RAG Solutions: Self Reflective RAG, Corrective RAG, RAG Fusion🎓
 - LLMs:GPT, Mistral, Olama | LLama 2, Mistral, PaLM, Claude, BERT, T5, Zephyr, Genemi | Bard🧠
-- AI Agent Frameworks: Langchain, llama-index, AutoGen, MemGPT, MetaGPT, AutoGPT, ChatDEV, ChatGPT, reworkd, Longmem, TaskWeaver, CrewAI, MindStudio | retool | Stack-ai | Creatify.ai | griptape.ai, vllm, fastchat, FlowiseAI, Clarifai🤖
+- AI Agent Frameworks: Langchain, llama-index, crewai, AutoGen, MemGPT, MetaGPT, AutoGPT, ChatDEV, ChatGPT, reworkd, Longmem, TaskWeaver, MindStudio | retool | Stack-ai | Creatify.ai | griptape.ai, vllm, fastchat, FlowiseAI, Clarifai🤖
 - NLP: Spacy, NLTK, prodigy💬
 - Automation: Zapier | Selenium🔄
 - OpenAI: GPT4, Whisper, Dall-E-3, , Embeddings | Finetuning | Virtual Assistant🆕
