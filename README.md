@@ -5,8 +5,6 @@
     <h3 align="center">AI Software Engineer & AI Solutions Architect & Lead</h3>
   </p>
 
-  <a href="https://app.daily.dev/mysticnin"><img align="right" src="https://api.daily.dev/devcards/a6bc63ac1d104f2db44a3c115cf03f40.png?r=bw2" width="400" alt="Mystic Ninja's Dev Card"/></a>
-
   <p>
   🚀 With over 9 years of diverse industry experience, I specialize in backend development, web development, and comprehensive AI Solutions including NLP/ML, LLM/RAG, Vector Embedding, Hybrid Search (Sparse & Dense Embedding), TTS/STT, Img2Text, Text2Img, and Prompt Engineering. I have deployed my skills across healthcare, education, real estate, finance, and more, where I've designed and implemented sophisticated AI systems to drive organizational growth and efficiency.
   </p>
@@ -72,5 +70,18 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/mysticnin/mysticnin/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>
